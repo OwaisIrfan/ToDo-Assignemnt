@@ -1,0 +1,126 @@
+body{
+    background-image: url(89328.jpg);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 50px;
+    font-family: 'Montserrat', sans-serif;
+}
+.main{
+    background-color: rgb(247, 247, 247);
+    width: 350px;
+    height: auto;
+    min-height: 550px;
+    border-radius: 20px;
+    box-shadow: 0 10px 20px 0 rgba(0,0,0,.13);
+    padding-top: 30px;
+    margin-bottom: 40px;
+    display: flex;
+    flex-direction: column;
+}
+
+.main-items{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.fa-trash{
+    font-size: 0.9em !important;
+}
+.dlte{
+    margin-left: 10px;
+}
+
+.plus-btn{
+    border-radius: 50%;
+    background-color: white;
+    /* padding: 0px 10px 0px 10px; */
+    font-size: 1.2em;
+    border: none;
+    box-shadow: 0 10px 20px 0 rgba(0,0,0,.13);
+    height: 40px;
+    width: 40px;
+}
+
+.plus-btn:hover{
+    background-color: rgb(241, 241, 241);
+    transition: 0.5s;
+}
+
+.plus-btn:focus{
+    outline: none;
+}
+
+.main-input{
+    width: 200px;
+    height: 40px;
+    border-radius: 20px;
+    border: none;
+    box-shadow: 0 10px 30px 0 rgba(0,0,0,.13);
+    padding: 5px 15px 5px 15px !important;
+    font-size: 1em;
+    margin-right: 9px;
+}
+
+.listofli{
+    list-style-type: none;
+    margin: 20px 10px 20px 10px;
+}
+
+
+
+.main-input:focus{
+    outline: none;
+    font-size: 1em;
+
+}
+
+.libtn{
+    /* margin-left: 20px; */
+    margin: 0px 20px 0px 20px;
+}
+
+
+.main-input::placeholder{
+    
+    color: darkgrey;
+}
+
+.njdfbjdf{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.far{
+    font-size: 1em;
+}
+
+.div-of-li{
+    width: 200px !important;
+}
+
+.gnfgn{
+    margin-left: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
